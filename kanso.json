@@ -1,0 +1,17 @@
+{
+	"name": "kanso-codemirror",
+	"version": "3.13.0",
+	"description": "Codemirrorin a Kanso package",
+	"url": "https://github.com/Dsyko/kanso-codemirror",
+	"categories": ["frontend"],
+	"attachments": [
+		"lib",
+		"theme",
+		"mode",
+		"addon",
+		"keymap"
+	],
+	"dependencies": {
+		"attachments": null
+	}
+}
