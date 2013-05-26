@@ -6,7 +6,7 @@ Codemirror wrapped in a kanso package
 Using the package
 -----
 
-Add the `Codemirror` .js and .css assets to your html files, in this example I've included the monokai theme
+Add the `Codemirror` .js and .css assets to your html files, in this example I've included the monokai theme and python mode
 
 ```html
 <script src="lib/codemirror.js"></script>
